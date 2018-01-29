@@ -1,0 +1,14 @@
+*.class
+*.jar
+.settings/
+.project
+.classpath
+test-output/
+target/
+*.swp
+bin/
+output/
+logs/
+*.DS_Store
+.idea/
+*.iml
